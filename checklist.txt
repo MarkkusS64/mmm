@@ -1,0 +1,6 @@
+website name   browser1 browser2 browser3 browser 4...
+module_1       
+check_1        passed   passed   passed    passed
+check_2        failed   failed   passed    passed
+check_3        blocked  blocked  skipped   skipped
+
