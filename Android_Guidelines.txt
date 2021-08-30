@@ -7,7 +7,7 @@ App bars: bottom
 		3. Access to a bottom navigation drawer
 App bars: top
 	Is used for branding, screen titles, navigation, actions
-	Using an image which can make text oe icons illegible - prohibited
+	Using an image which can make text or icons illegible - prohibited
 	Title - fully readable, isn't shrinked(becomes more little) long title isn't using for a regular bar
 
 FAB(Floating Action Button):
