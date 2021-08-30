@@ -30,9 +30,9 @@ Banner(Medium using priority):
 
 Snackbar(Low using priority)
 	Are temporary
-	Acknowledges user about some action of app
+	Acknowledges user about some action of an app
 	Only one snackbar should be displayed at the moment
-	Can contain a single action
+	Can contains a single action
 	Text button - another color than text, text button - without filling
 	Placing snackbar in front or behind of navbars, FABs - prohibited
 Checkbox: 
