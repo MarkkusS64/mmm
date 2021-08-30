@@ -1,0 +1,45 @@
+Font type - Roboto
+
+App bars: bottom
+	Are used for:
+		1. Mobile devices only
+		2. 2-5 actions on the bar 
+		3. Access to a bottom navigation drawer
+App bars: top
+	Is used for branding, screen titles, navigation, actions
+	Using an image which can make text oe icons illegible - prohibited
+	Title - fully readable, isn't shrinked(becomes more little) long title isn't using for a regular bar
+
+FAB(Floating Action Button):
+	Performs primary or most common action
+	Appears in front of all screen(layers)
+	1 - is ok, 2 - if using disticnt, yet equally important actions, 3 or more - prohibited
+	Text(only for round FAB), ambigious icons - prohibited
+	Using FAB for individual components; minor, unclear, destructive actions - prohibited
+
+Dialog(High using priority):
+	Is using for alerts, critical information or decisions
+	Turns off all app's functional before decision won't be made
+	Don't use ambigious questions
+
+Banner(Medium using priority):
+	Displays an important information
+	Requires a user action to be dismissed
+	Provides some actions for user
+	Using more than one banner - prohibited
+
+Snackbar(Low using priority)
+	Are temporary
+	Acknowledges user about some action of app
+	Only one snackbar should be displayed at the moment
+	Can contain a single action
+	Text button - another color than text, text button - without filling
+	Placing snackbar in front or behind of navbars, FABs - prohibited
+Checkbox: 
+	Is using for one or multiple checks
+Radiobutton: 
+	Is using for a single check
+Switch: 
+	Is using for toggle a single item on/off
+	Immediately activating/deactivating smth
+
