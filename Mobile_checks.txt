@@ -16,7 +16,7 @@ Mobile checklist
 
 3. Check differents OS versions
 	3.1. Check app on latest OS version
-	3.2. Check app on earliest maintained OS version
+	3.2. Check app on earliest maintained OS version, by the app
 	3.3. Check app on penultimate OS version
 	3.4. Check app on populars OS versions
 
