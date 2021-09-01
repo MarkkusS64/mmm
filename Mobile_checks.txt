@@ -11,7 +11,7 @@ Mobile checklist
 	1.7. Install new version of app
 
 2. Open app
-	2.1. Presence of Splash Screen
+	2.1. Presence of a Splash Screen
 	
 
 3. Check differents OS versions
