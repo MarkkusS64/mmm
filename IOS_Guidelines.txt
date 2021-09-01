@@ -1,0 +1,22 @@
+Font - San Francisco
+
+Screen should be used fully
+App shouldn't have gradients or shadows in design
+App should show content underneath transperant elements
+Workspaces should be contrasty
+Interactive elements should be distinguished by color
+Buttons shouldn't have filling
+App should starts after clicking on it's icon without any clickable buttons on 'Splash screen'
+Recommedation not to use registration in an app
+Recommendation not to use onboarding. App should be intuitive
+Recommendation not to include Privacy Policy argeement in an app
+Progress of using app should saves after closing app and should recovers after opening an app again
+There souldn't be a button "CLOSE, CLOSE APP, EXIT, etc." in an app
+There should appear a banner with information on the screen after smth. went wrong in app and code must close it
+
+Apps icon:
+	Icon shouldn't be transperant
+	Icon shouldn't include photos, screenshots, interface elements
+	Icon shouldn't be a hardware product replica
+	
+
